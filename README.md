@@ -38,8 +38,8 @@ même une autre fonction afficherImage () s’occupant de modifier la zone1, en 
 
 **7. Chargement automatique de la 1 ère image**<br>
 Lors du chargement de l’application, faire en sorte que par défaut la grande image de la zone1 ainsi que ses infos liées, correspondent à la 1 ère vignette de la zone2.<br>
-**8. Amélioration de l’affichage**<br> 
 
+**8. Amélioration de l’affichage**<br> 
 Styliser l’interface pour qu’elle ressemble à l’image en début de document.
 * Au niveau des vignettes
 * Au niveau de la grande image
